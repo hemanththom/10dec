@@ -1,4 +1,5 @@
-i am the new user of devops
+ am the new user of devops
 i wanna be a pro in dveops
-i want add a diff command
+i want add a diff com
 we will use fetch
+we are modifying in github
